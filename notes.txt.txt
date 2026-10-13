@@ -1,5 +1,0 @@
-Class: Software Engineering;  
-
-Favorite topic: HTML;  
-
-Goal: Learn Git.  

@@ -1,0 +1,5 @@
+Class: Software Engineering;  
+
+Favorite topic: Web Design;  
+
+Goal: Learn Git.  

@@ -1,2 +1,2 @@
 Tadiwanashe Munyanyi
-Skills: AI research and Container Orchestration
+AI research and Cluster Orchestration

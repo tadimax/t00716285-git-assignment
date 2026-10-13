@@ -1,0 +1,1 @@
+Implement websocket connection for chat presence server
